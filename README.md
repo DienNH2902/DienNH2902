@@ -8,10 +8,13 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=DienNH2902&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<!-- GitHub Stats chính chủ -->
+![](https://github-readme-stats.vercel.app/api?username=DienNH2902&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
+<!-- GitHub Streak Stats (Cái này link của bạn vẫn đúng nhưng nên kiểm tra lại) -->
 ![](https://streak-stats.demolab.com/?user=DienNH2902&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DienNH2902&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Top Languages chính chủ -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DienNH2902&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
