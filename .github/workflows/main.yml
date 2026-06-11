@@ -28,7 +28,7 @@ jobs:
           github_user_name: DienNH2902
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23e67e22&color_dots=%23161b22,%23fed7aa,%23fb923c,%23ea580c,%239a3412          
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ff6b00&color_dots=%23161b22,%23d35400,%23e67e22,%23ba4a00,%23873300          
       # Đẩy file ảnh đã sinh vào một nhánh phụ tên là `output`
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
