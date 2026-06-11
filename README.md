@@ -8,7 +8,7 @@
 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![MongoDB](https://img.shapes.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -18,27 +18,22 @@
 
 # 🐍 Snake Contributions
 
-<!-- Bản đồ rắn ăn commit tự động chạy -->
 ![](https://raw.githubusercontent.com/DienNH2902/DienNH2902/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 # 📊 GitHub Stats
 
-<!-- GitHub Stats - Tông màu Cam (Káputo/Halloween) -->
 ![](https://github-readme-stats.vercel.app/api?username=DienNH2902&theme=halloween&hide_border=false&include_all_commits=true&count_private=true)
 
-<!-- GitHub Streak Stats - Tông màu Cam Vàng (Gruvbox) -->
 ![](https://streak-stats.demolab.com/?user=DienNH2902&theme=gruvbox&hide_border=false)
 
-<!-- Top Languages - Tông màu Cam (Halloween) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DienNH2902&theme=halloween&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 # 📈 Contribution Graph
 
-<!-- Đồ thị đóng góp chi tiết theo năm - Tông màu Cam (Halloween) -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=DienNH2902&theme=halloween&bg_color=0D1117&hide_border=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=DienNH2902&bg_color=0D1117&color=e67e22&line=f1c40f&point=f39c12&area_color=0D1117&title_color=e67e22&hide_border=false)
 
 </div>
